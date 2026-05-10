@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://nepal-trekking-seasons-and-weather.netlify.app/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
